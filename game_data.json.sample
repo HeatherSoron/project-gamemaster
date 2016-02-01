@@ -1,0 +1,22 @@
+{
+	"characters": {
+		"PC": {
+			"is": "Character",
+			"name": "PC",
+			"isPlayer": true,
+			"hp": 10,
+			"ac": 12,
+			"attackBonus": 1,
+			"damageDice": "1d6"
+		},
+		"enemy": {
+			"is": "Character",
+			"name": "enemy",
+			"isPlayer": false,
+			"hp": 10,
+			"ac": 12,
+			"attackBonus": 1,
+			"damageDice": "1d6"
+		}
+	}
+}

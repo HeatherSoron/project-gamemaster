@@ -1,3 +1,9 @@
+### project-specific files ###
+game_data.json
+
+
+### Node generic ignored files below ###
+
 # Logs
 logs
 *.log
